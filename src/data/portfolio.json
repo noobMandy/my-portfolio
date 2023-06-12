@@ -1,0 +1,22 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/one.png",
+      "title": "CRYPTOVERSE WEB APP",
+      "description": "React,JSX,Tailwind,Jest",
+      "url": "https://fascinating-jelly-4a91ca.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/two.png",
+      "title": "TASKIFY",
+      "description": "React,JSX,Tailwind,Jest",
+      "url": "https://coruscating-kringle-30252b.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/three.png",
+      "title": "MOVIE RATING APP",
+      "description": "React,JSX,Tailwind,Jest",
+      "url": "https://fanciful-mermaid-402160.netlify.app/"
+    }
+  ]
+}
