@@ -3,20 +3,26 @@
     {
       "cover": "/portfolio/1/one.png",
       "title": "CRYPTOVERSE WEB APP",
-      "description": "React,JSX,Tailwind,Jest",
+      "description": "Developed the web application where one can see crypto details, prices, crypto news and exchanges using reactjs, redux, redux-thunk middleware",
       "url": "https://fascinating-jelly-4a91ca.netlify.app/"
     },
     {
       "cover": "/portfolio/1/two.png",
       "title": "TASKIFY",
-      "description": "React,JSX,Tailwind,Jest",
+      "description": "A simple to-do list app where one can drag and drop their completed and uncompleted tasks, build using typescript and react ",
       "url": "https://coruscating-kringle-30252b.netlify.app/"
     },
     {
       "cover": "/portfolio/1/three.png",
       "title": "MOVIE RATING APP",
-      "description": "React,JSX,Tailwind,Jest",
+      "description": "Developed the web application where one can go and check the details and reviews about any movies and shows details, using react js redux, redux-thunk middleware ",
       "url": "https://fanciful-mermaid-402160.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/four.png",
+      "title": "SOCIAL MEDIA APP",
+      "description": "Developed an social media web app where one can post anything,like and comment respectively using MongoDb,ReactJs,and Node Js with GraphQL",
+      "url": "https://sociallmedia.netlify.app/"
     }
   ]
 }
